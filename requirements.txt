@@ -1,6 +1,12 @@
-pandas
 numpy
 scikit-learn
+fastapi
+uvicorn
+opencv-python
+pillow
+sqlalchemy
+pydantic
+python-multipart
 
 
 -e .
